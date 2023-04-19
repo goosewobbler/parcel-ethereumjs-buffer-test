@@ -1,0 +1,28 @@
+{
+  "name": "parcel-ethereumjs-buffer-test",
+  "version": "0.0.1",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goosewobbler/parcel-ethereumjs-buffer-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goosewobbler/parcel-ethereumjs-buffer-test/issues"
+  },
+  "homepage": "https://github.com/goosewobbler/parcel-ethereumjs-buffer-test#readme",
+  "devDependencies": {
+    "buffer": "6.0.3",
+    "events": "3.3.0",
+    "parcel": "2.8.3"
+  },
+  "dependencies": {
+    "@ethereumjs/util": "8.0.5"
+  }
+}
